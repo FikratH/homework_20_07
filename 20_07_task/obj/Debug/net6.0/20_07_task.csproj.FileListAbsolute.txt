@@ -1,0 +1,15 @@
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\bin\Debug\net6.0\20_07_task.exe
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\bin\Debug\net6.0\20_07_task.deps.json
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\bin\Debug\net6.0\20_07_task.runtimeconfig.json
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\bin\Debug\net6.0\20_07_task.dll
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\bin\Debug\net6.0\20_07_task.pdb
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\obj\Debug\net6.0\20_07_task.csproj.AssemblyReference.cache
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\obj\Debug\net6.0\20_07_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\obj\Debug\net6.0\20_07_task.AssemblyInfoInputs.cache
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\obj\Debug\net6.0\20_07_task.AssemblyInfo.cs
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\obj\Debug\net6.0\20_07_task.csproj.CoreCompileInputs.cache
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\obj\Debug\net6.0\20_07_task.dll
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\obj\Debug\net6.0\refint\20_07_task.dll
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\obj\Debug\net6.0\20_07_task.pdb
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\obj\Debug\net6.0\20_07_task.genruntimeconfig.cache
+C:\Users\Fikre\source\repos\20_07_task\20_07_task\obj\Debug\net6.0\ref\20_07_task.dll
